@@ -27,7 +27,7 @@
 
 => Trade-offs & Shortcuts
 
--   Advanced styling (Tailwind basic).
+-   Styling usin tailwind an daisy ui
 -   Pagination skipped for simplicity , Will be implemented if we have more data
 -   Some DB constraints could be expanded (unique category names, budget
     upper bounds).
